@@ -22,7 +22,7 @@ x-shared:
       # Allow passing in these variables via .env:
       AUTOWIZARD_JSON:
       AUTOWIZARD_RELATIVE_PATH:
-      ELASTICSEARCH_ENABLED:
+      ELASTICSEARCH_ENABLED=false:
       ELASTICSEARCH_SCHEMA:
       ELASTICSEARCH_HOST:
       ELASTICSEARCH_PORT:
